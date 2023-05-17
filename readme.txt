@@ -1,4 +1,5 @@
 # hello-world
 
 Hello World  Git first project
-This is an example repository on Git 
+This is an example repository on Git and Github 
+Includes steps in github
